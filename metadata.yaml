@@ -1,0 +1,38 @@
+_repo: I-misteri-del-castello-d-Udolfo-vol.-4_33784
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    alias: Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
+description: ''
+gutenberg_bookshelf:
+- Gothic Fiction
+- IT Romanzi
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33784'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Castles -- Fiction'
+title: I misteri del castello d'Udolfo, vol. 4
+url: http://www.gutenberg.org/ebooks/33784
